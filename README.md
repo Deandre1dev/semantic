@@ -1,6 +1,6 @@
 # How to install the Recommend Project
 1. ## Clone the Recommend repository in the directory which you wish to install this project.
-   * Using this command " git clone  "
+   * Using this command " git clone https://github.com/Deandre1dev/semantic.git "
 
 2. ## Install spacy module.
    * ### Using the commands in the commands.txt file.
